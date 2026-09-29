@@ -56,7 +56,7 @@ cd my_new_project
 rm -rf .git
 git init
 git add .
-git commit -m "Initial commit from template"
+git commit -m "テンプレートから初期セットアップ"
 
 # 新しいプロジェクト用のリポジトリを作成してpush
 # （GitHubで新リポジトリ作成後）

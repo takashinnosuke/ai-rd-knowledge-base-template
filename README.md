@@ -136,7 +136,7 @@ This knowledge base works with plain Markdown and any text editor, but [Obsidian
 Use Git to track changes:
 ```bash
 git add .
-git commit -m "Add sensor calibration experiment"
+git commit -m "センサー校正実験を追加"
 git push
 ```
 

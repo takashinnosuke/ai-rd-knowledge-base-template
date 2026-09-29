@@ -1,4 +1,4 @@
-# Quick Start Guide
+# クイックスタートガイド
 
 このガイドは5分でKnowledge Baseを使い始めるためのものです。
 
@@ -14,7 +14,7 @@ cd my_project_kb
 # 2. Gitリポジトリを初期化
 git init
 git add .
-git commit -m "Initial knowledge base setup"
+git commit -m "Knowledge Base初期セットアップ"
 
 # 3. プロジェクト情報を記入
 # テキストエディタで以下を編集:
